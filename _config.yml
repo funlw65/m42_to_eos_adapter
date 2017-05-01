@@ -1,1 +1,5 @@
 theme: jekyll-theme-midnight
+title: M42 to EOS lens adapter
+description: A 3D printed adapter in PLA, to be printed with a high precision printer
+gems:
+- jemoji
